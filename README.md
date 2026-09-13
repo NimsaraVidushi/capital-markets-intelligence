@@ -81,5 +81,4 @@ To run the entire data pipeline from start to finish, simply execute the main sc
 python src/main.py
 ```
 
-This will automatically download fresh data, transform it, and upload it into your SQL database. Once complete, you can refresh the Power BI dashboard (`powerbi/CapitalMarkets.pbix`) to view the updated visualizations.
 
